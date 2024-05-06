@@ -47,7 +47,7 @@
                       Console.WriteLine($"O Herói {nomeHeroi} está no nível Radiante");
                       break;*/
 
-            //  UTILIXANDO METODO
+            //  UTILIZANDO METODO
             Console.WriteLine("Olá. Qual é o nome do seu Herói?");
             string nomeHeroi = Console.ReadLine();
 
