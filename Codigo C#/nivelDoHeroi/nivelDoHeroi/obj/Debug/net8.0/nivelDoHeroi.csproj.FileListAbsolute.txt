@@ -1,0 +1,15 @@
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\bin\Debug\net8.0\nivelDoHeroi.exe
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\bin\Debug\net8.0\nivelDoHeroi.deps.json
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\bin\Debug\net8.0\nivelDoHeroi.runtimeconfig.json
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\bin\Debug\net8.0\nivelDoHeroi.dll
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\bin\Debug\net8.0\nivelDoHeroi.pdb
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\obj\Debug\net8.0\nivelDoHeroi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\obj\Debug\net8.0\nivelDoHeroi.AssemblyInfoInputs.cache
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\obj\Debug\net8.0\nivelDoHeroi.AssemblyInfo.cs
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\obj\Debug\net8.0\nivelDoHeroi.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\obj\Debug\net8.0\nivelDoHeroi.sourcelink.json
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\obj\Debug\net8.0\nivelDoHeroi.dll
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\obj\Debug\net8.0\refint\nivelDoHeroi.dll
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\obj\Debug\net8.0\nivelDoHeroi.pdb
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\obj\Debug\net8.0\nivelDoHeroi.genruntimeconfig.cache
+D:\Mis Documentos\Programación\dio-git-e-github\JavaScript\desafio-do-felipao\Codigo C#\nivelDoHeroi\nivelDoHeroi\obj\Debug\net8.0\ref\nivelDoHeroi.dll
